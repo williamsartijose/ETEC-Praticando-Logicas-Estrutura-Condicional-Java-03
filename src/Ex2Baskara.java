@@ -9,7 +9,7 @@ import java.util.Scanner;
 // conforme exemplo. Se a equação não possuir raízes reais, mostrar uma
 // mensagem.
 
-public class baskara
+public class Ex2Baskara
 {
 
     public static void main(
