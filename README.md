@@ -4,7 +4,6 @@
 
 Testando a Logica de Programação usando as Estrutura-condicional  = https://github.com/williamsartijose/Etec-CursoBasicoJava/tree/main/src/Secao5EstruturaCondicional
 
-
 ## Layout dos Exercício 
 #### Problema "notas" 
 #### Problema "Resolvido abaixo" -  
