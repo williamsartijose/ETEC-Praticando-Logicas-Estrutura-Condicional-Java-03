@@ -7,6 +7,8 @@ Testando a Logica de Programação usando as Estrutura-condicional  = https://gi
 
 ## Layout dos Exercício 
 #### Problema "notas" 
+#### Problema "Resolvido abaixo" -  
+(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Condicional-Java-03/blob/main/src/Ex1Notas.java)
 
 Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de 
 uma disciplina anual. Em seguida, mostrar a nota final que o aluno obteve (com uma casa decimal) no 
@@ -15,6 +17,8 @@ mensagem "REPROVADO", conforme exemplos.
 ![Web 2](https://github.com/williamsartijose/Praticando-Logicas--Estrutura-condicional-Java/blob/main/Ex1Notas.PNG)
 
 #### Problema "baskara"
+#### Problema "Resolvido abaixo" -  
+(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Condicional-Java-03/blob/main/src/Ex2Baskara.java)
 Fazer um programa para ler os três coeficientes de uma equação do segundo grau. Usando a fórmula 
 de Baskara, calcular e mostrar os valores das raízes x1 e x2 da equação com quatro casas decimais, 
 conforme exemplo. Se a equação não possuir raízes reais, mostrar uma mensagem. 
@@ -22,6 +26,9 @@ conforme exemplo. Se a equação não possuir raízes reais, mostrar uma mensage
 ![Web 1](https://github.com/williamsartijose/Praticando-Logicas--Estrutura-condicional-Java/blob/main/Ex2Baskara.png)
 
 #### Problema "menor_de_tres"
+#### Problema "Resolvido abaixo" -  
+(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Condicional-Java-03/blob/main/src/Ex3Menor_de_tres.java)
+
 Fazer um programa para ler três números inteiros. Em seguida, mostrar qual o menor dentre os três 
 números lidos. Em caso de empate, mostrar apenas uma vez. 
 
